@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Unblocked Space</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 { color: #00ffcc; }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        iframe {
+            width: 100%;
+            height: 500px;
+            border: 2px solid #00ffcc;
+            border-radius: 8px;
+            background: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Website</h1>
+        <p>This page is hosted on GitHub Pages.</p>
+        
+        <!-- You can replace this src URL with any embeddable web app or proxy tool -->
+        <iframe src="https://example.com" title="Embedded Content"></iframe>
+    </div>
+</body>
+</html>
+<iframe src="https://spotify.com" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; player"></iframe>
+```
+
+### How to Use It
+* **Copy** the code block above.
+* **Paste** the code directly into the HTML source or code block of your website or blog. 
+* **Adjust** the `width` or `height` values in the code if you want to change the player size.
+
+<FollowUp>
+If you need help with a **different playlist** or want to change the **player theme or size**, let me know!
+</FollowUp>
